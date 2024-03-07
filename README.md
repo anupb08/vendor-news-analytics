@@ -5,3 +5,4 @@ It has include following files:
 2. Vendor wise news sentiment file: vendor_wise_summary_senti_score.csv
 3. Sector wise news summary: news_industry_focus_summary_report.csv
 4. Sector wise news sumamry sentiment:  news_industry_focus_summary_sentiment.csv
+5. Business event wise summary & sentiment: event_summary_sentiment_using_multiple_methods.csv
